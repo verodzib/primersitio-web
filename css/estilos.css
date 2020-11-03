@@ -1,0 +1,98 @@
+body {
+
+	background:#fcf5ee;
+	color:#2f4f4f;
+	
+}
+/*Comentarios*/
+ h1{
+
+ 	color: #000;
+ 	font-size: 30px;
+ 	background: #f9f9a1;
+ 	border: 0.5px solid #000;
+ 	width: 70%
+ }
+ h2{ 
+ 	color:#000;
+ 	
+ 	width: 12%;
+   }
+ 
+
+  div ul{
+ 	background: #cbfce5;
+ 	border: 0.5px solid #000;
+ 	height: 420px;
+ 	width: 250px;
+
+   }
+
+
+   div p {
+ 
+   	height: 300;
+   	width: 500;
+   	font-size: 20px;
+   	background: #f4cdf5;
+   	padding: 30px 30px;
+   	color: #000;
+   	
+
+   } 
+
+.img {
+
+	position: relative;
+	top:;
+	bottom:420px;
+	right:;
+	left:650px ;
+
+
+}
+.lista{
+
+	position: relative;
+	top: ;
+	bottom:880px ;
+	right: ;
+	left: 950px;
+}
+.texto {
+
+	position: relative;
+	top: ;
+	bottom: ;
+	right: ;
+	left: 50px;
+}
+.pie {
+
+	position: relative;
+	bottom: 800px;
+}
+h2{
+	position: relative;
+	left: 220px;
+}
+
+a {
+	text-decoration: none;
+	margin: 10px 10px 10px 10px;
+	padding: 10px 40px;
+	display:inline-block;
+}
+a:hover {
+	text-decoration: underline;
+	background: #e9eacd;
+
+}
+.enlaces {
+
+	position: absolute;
+	top: 10px;
+	right: 40px;
+
+}
+
